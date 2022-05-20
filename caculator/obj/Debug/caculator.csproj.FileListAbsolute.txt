@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\caculator\caculator\bin\Debug\caculator.exe.config
+C:\Users\ASUS\source\repos\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\ASUS\source\repos\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.Form1.resources
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.Properties.Resources.resources
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.exe
+C:\Users\ASUS\source\repos\caculator\caculator\obj\Debug\caculator.pdb
